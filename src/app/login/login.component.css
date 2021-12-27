@@ -1,0 +1,19 @@
+.form {
+  max-width: 25rem;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+.signup-form{
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 15px;
+  margin-top: 100px;
+}
+  .signup-form form{
+    color: #6998AB;
+    padding: 30px;
+    border: solid #D8E3E7;
+    
+    
+}
